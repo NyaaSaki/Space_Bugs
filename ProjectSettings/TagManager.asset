@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - SkyBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Skybox
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2269530823
+    locked: 0
+  - name: Enemy
+    uniqueID: 4194559127
+    locked: 0
+  - name: Bullets
+    uniqueID: 3289588803
+    locked: 0
+  - name: Player
+    uniqueID: 295855473
+    locked: 0
